@@ -5,6 +5,7 @@ public class task {
     String str;
     int j;
 
+
     public task(int i, String str) {
         this.i = i;
         this.str = str;
