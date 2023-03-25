@@ -3,6 +3,7 @@ package Git;
 public class task {
     int i;
     String str;
+    int j;
 
     public task(int i, String str) {
         this.i = i;
