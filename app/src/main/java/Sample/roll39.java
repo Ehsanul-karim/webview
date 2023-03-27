@@ -5,6 +5,7 @@ public class roll39 {
     String s;
     int j;
 
+
     public int getI() {
         return i;
     }
