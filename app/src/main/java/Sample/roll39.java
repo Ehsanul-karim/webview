@@ -3,6 +3,7 @@ package Sample;
 public class roll39 {
     int i;
     String s;
+    String str;
 
     public int getI() {
         return i;
